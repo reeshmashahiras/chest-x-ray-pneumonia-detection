@@ -1,9 +1,9 @@
 Intel-oneAPI-Powered CHEST X-RAY DETECTION FOR PNEUMONIA
 
 INTEL INTEGRATIONS :
-Intel Developer Cloud
-Intel Distribution or python
-Intel scikit-learn
-Intel OneDNN ( MKL-DNN)
-TensorFlow with Intel optimizations
-NumPy and SciPy with Intel optimizations
+   1.Intel Developer Cloud
+   2.Intel Distribution or python
+   3. Intel scikit-learn
+   4.Intel OneDNN ( MKL-DNN)
+   5.TensorFlow with Intel optimizations
+   6.NumPy and SciPy with Intel optimizations
