@@ -1,6 +1,7 @@
-Intel-oneAPI-Powered CHEST X-RAY DETECTION FOR PNEUMONIA
+**Intel-oneAPI-Powered CHEST X-RAY DETECTION FOR PNEUMONIA**
 
-INTEL INTEGRATIONS :
+**INTEL INTEGRATIONS :**
+
    1.Intel Developer Cloud
    2.Intel Distribution or python
    3. Intel scikit-learn
