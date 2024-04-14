@@ -1,4 +1,4 @@
-   # Intel-oneAPI-Powered FOR PNEUMONIA DETECTION using Chest X-Ray :
+   # Intel-oneAPI-Powered  PNEUMONIA DETECTION using Chest X-Ray :
 This project harnesses the power of Deep Learning and Intel oneAPI to accurately diagnose pneumonia from X-ray images. By automating the detection process, we aim to expedite diagnosis, enabling timely medical intervention and improving patient outcomes. This solution can be seamlessly integrated into clinical workflows, enhancing efficiency and aiding healthcare professionals in making informed decisions. Whether in hospitals or remote areas, our model provides a reliable tool for pneumonia detection, ensuring widespread accessibility to quality healthcare.
    
 # PROBLEM STATEMENT
