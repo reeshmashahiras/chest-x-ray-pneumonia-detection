@@ -28,22 +28,22 @@ Our solution utilizes **Deep Learning techniques** to tackle the challenge of pn
 
 # TECHNOLOGY STACK :
 
-  1.TensorFlow and Keras for deep learning
-  2.scikit-learn-intelex and Intel oneDNN for optimized performance
-  3.Jupyter Notebook for interactive development
-  4.Python for coding
-  5.Intel DevCloud for scalable computation
-  6.Kaggle and opendatasets for data access
-  7.Matplotlib for data visualization
+  1.TensorFlow and Keras for deep learning.
+  2.scikit-learn-intelex and Intel oneDNN for optimized performance.
+  3.Jupyter Notebook for interactive development.
+  4.Python for coding.
+  5.Intel DevCloud for scalable computation.
+  6.Kaggle and opendatasets for data access.
+  7.Matplotlib for data visualization.
 
 # INTEL INTEGRATIONS :
 
- 1.Intel Developer Cloud
- 2.Intel Distribution or python
- 3. Intel scikit-learn
- 4.Intel OneDNN ( MKL-DNN)
- 5.TensorFlow with Intel optimizations
- 6.NumPy and SciPy with Intel optimizations
+ 1.Intel Developer Cloud.
+ 2.Intel Distribution or python.
+ 3. Intel scikit-learn.
+ 4.Intel OneDNN ( MKL-DNN).
+ 5.TensorFlow with Intel optimizations.
+ 6.NumPy and SciPy with Intel optimizations.
  
 ![Screenshot 2024-04-14 212339](https://github.com/reeshmashahiras/chest-x-ray-pneumonia-detection/assets/100523261/13e14e63-ad84-4aac-92a3-6ff103aff7c7)
 
